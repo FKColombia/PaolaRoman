@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jaime;Jannette;;;
-FN: Jannette Jaime
-ORG: Fresenius Kabi Colombia;
-TITLE: Analista de Compras
-EMAIL;type=INTERNET;type=WORK;type=pref:jannette.jaime@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573138008926
-item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
+N:Martínez;Natalia;;;
+FN: Natalia Martínez
+ORG: Fresenius Kabi España;
+TITLE: Area Manager Biosimilares
+EMAIL;type=INTERNET;type=WORK;type=pref:natalia.martinez@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+34 649136970
+item1.ADR;type=WORK;type=pref:;;Torre Mapfre-Vila Olímpica\nMarina, 16-18\, 08005;Barcelona
 item1.X-ABADR:sg
-item2.URL;type=pref:www.fresenius-kabi.com/co
+item2.URL;type=pref:www.fresenius-kabi.com/es
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
